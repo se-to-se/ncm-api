@@ -1,1 +1,1 @@
-# ncm-api
+FROM moefurina/ncm-api:latest
